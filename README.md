@@ -1,4 +1,4 @@
-# 🤖 Autonomous Robot – Hawkins Interdimensional Challenge 2024
+# 🤖 Autonomous Robot – Robot Design Module
 
 This project features an autonomous mobile robot developed by **Team RoboCraft** for the **Hawkins Interdimensional Challenge 2024**, hosted by the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
 
