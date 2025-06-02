@@ -19,6 +19,9 @@ The robot was designed to complete a series of 8 challenging tasks involving lin
 | **Battery**         | 11.1V 400mAh Li-ion Battery (onboard power) |
 | **Indicators**      | Onboard LEDs (task status and feedback)     |
 
+<img src="./Images/IMG-20250602-WA0009.jpg" alt="Simulation" width="500"/>
+
+
 ---
 
 ## 🎯 Challenge Tasks
@@ -34,5 +37,20 @@ The robot was designed to complete a series of 8 challenging tasks involving lin
 | **7**    | Box Insertion                     | Follow a line to insert a small box into a chamber hole                       |
 | **8**    | Coin Drop on Magnetic Spot        | Drop a 2-rupee coin on an ‘X’ mark over uneven terrain to complete the run    |
 
+![Map](Screenshot 2025-06-02 101021.png)
 ---
+
+## 🧩 SolidWorks Model Previews
+
+The robot's mechanical structure was designed in **SolidWorks** to ensure precise fitting of components and smooth task execution. Below are some rendered previews from the CAD models.
+
+| View                    | Preview                                      |
+|-------------------------|----------------------------------------------|
+| **Front View**       |  <img src="./Images/Screenshot 2024-11-24 143719.png" alt="Assembly View" width="500"/>     |
+| **Rear View**       | <img src="./Images/Screenshot 2024-11-27 173515.png" alt="Assembly View" width="500"/>    |
+| **Top View**      | <img src="./Images/Screenshot 2024-11-27 173425.png" alt="Assembly View" width="500"/>      |
+| **Bottom View**      | <img src="./Images/Screenshot 2024-11-27 173505.png" alt="Assembly View" width="500"/>      |
+| **Gripper Design** |    <img src="./Images/Screenshot 2024-11-24 144339.png" alt="Assembly View" width="500"/>  |
+
+> STL files and full CAD assemblies are available in the [`/STL files`](./STL files) folder.
 
