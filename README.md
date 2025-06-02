@@ -26,6 +26,8 @@ The robot was designed to complete a series of 8 challenging tasks involving lin
 
 ## 🎯 Challenge Tasks
 
+<img src="./Images/Screenshot 2025-06-02 101021.png" alt="Simulation" width="500">
+
 | Task No. | Task Name                         | Description                                                                 |
 |----------|-----------------------------------|-----------------------------------------------------------------------------|
 | **1**    | Line Width Detection              | Follow white lines of varying widths (3cm = 0, 6cm = 1) to extract a binary code |
@@ -37,7 +39,6 @@ The robot was designed to complete a series of 8 challenging tasks involving lin
 | **7**    | Box Insertion                     | Follow a line to insert a small box into a chamber hole                       |
 | **8**    | Coin Drop on Magnetic Spot        | Drop a 2-rupee coin on an ‘X’ mark over uneven terrain to complete the run    |
 
-![Map](Screenshot 2025-06-02 101021.png)
 ---
 
 ## 🧩 SolidWorks Model Previews
